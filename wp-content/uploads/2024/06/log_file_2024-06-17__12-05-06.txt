@@ -1,0 +1,104 @@
+
+---Downloaded files---
+The import files for: Tnews Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://www.southernafricayouthnews.com
+Data file = /home/fpvlqavh/public_html/wp-content/themes/tnews/inc/demo-data/tnews-demo.xml
+Widget file = /home/fpvlqavh/public_html/wp-content/themes/tnews/inc/demo-data/tnews-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+tnews_opt -> /home/fpvlqavh/public_html/wp-content/themes/tnews/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Tnews :: Search Form - No Title - Imported
+Tnews :: Category List - Categories  - Imported
+Tnews :: Recent Posts - Recent Posts - Imported
+Tnews :: Ads Banner Widget - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widgets Area 1 : 
+
+Tnews :: About Us Widget - No Title - Imported
+
+Footer Widgets Area 2 : 
+
+Tnews :: Category List - Categories - Imported
+
+Footer Widgets Area 3 : 
+
+Tnews :: Recent Posts - Recent Posts - Imported
+
+Footer Widgets Area 4 : 
+
+Block - No Title - Imported
+
+Offcanvas Sidebar : 
+
+Tnews :: About Us Widget - No Title - Imported
+Tnews :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: tnews_opt finished successfully!
+
+---ocdi/after_import---
+

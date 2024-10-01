@@ -1,0 +1,19 @@
+/*
+
+*/
+
+/* Header sub-menu icon */
+.hide-icon.main-menu ul.sub-menu li a:before {
+    display: none;
+}
+
+.hide-icon.main-menu ul.sub-menu li a:hover {
+    padding-left: 0;
+}
+
+/* Font Awesome */
+.fa,
+.fas {
+    font-family: "Font Awesome 6 Pro" !important;
+    font-weight: 900;
+}

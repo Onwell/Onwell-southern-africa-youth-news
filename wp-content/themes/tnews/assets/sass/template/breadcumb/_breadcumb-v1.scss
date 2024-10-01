@@ -1,0 +1,64 @@
+.breadcumb-menu {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    position: relative;
+    li {
+        display: inline;
+        margin-right: 5px;
+        list-style: none;
+        position: relative;
+
+        &:after {
+            content: "\f054";
+            position: relative;
+            margin-left: 8px;
+            font-weight: inherit;
+            font-size: inherit;
+            color: inherit;
+            font-family: $icon-font;
+        }
+
+        &:last-child {
+            padding-right: 0;
+            margin-right: 0;
+            color: $theme-color;
+
+            &:after {
+                display: none;
+            }
+        }
+
+        // &:last-child {
+        //   &,
+        //   a,
+        //   span {
+        //     color: $theme-color;
+        //   }
+        // }
+    }
+
+    li,
+    a,
+    span {
+        white-space: normal;
+        word-break: break-word;
+        font-weight: 600;
+        font-size: 16px;
+        color: $title-color;
+        text-transform: uppercase;
+    }
+}
+.breadcumb-title {
+    font-size: 36px;
+    margin-bottom: -0.1em;
+    + .breadcumb-menu {
+        margin-top: 7px;
+    }
+}
+.breadcumb-wrapper {
+    background-color: $border-color;
+    padding: 17.5px 0;
+    overflow: hidden;
+}
